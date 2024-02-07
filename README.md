@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sambhav</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 I’m currently learning **Python and Javascript**
 
 - 📫 How to reach me **sambhavkumar7978@gmail.com**
 
