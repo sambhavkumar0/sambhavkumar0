@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambhavkumar0&" alt="sambhavkumar0" /></p>
 
-![](https://raw.githubusercontent.com/OFCDEV/Github-Templates/master/profile-summary-card-output/dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/sambhavkumar0/Github-Templates/master/profile-summary-card-output/dark/0-profile-details.svg)
